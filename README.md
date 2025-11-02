@@ -29,6 +29,7 @@ NumPy / Pickle – For array handling and storage
 
 Screenshot:
 ![image alt](https://github.com/lakshyadn/Lakshya_Deewan-Task2-Rag/blob/2a77993a639c7c8b13433432ef38b3df3d25140a/Screenshot%202025-10-31%20011552.png)
+![image alt](https://github.com/lakshyadn/Lakshya_Deewan-Task2-Rag/blob/5d8f0e33bbe2436b728917b32e9e5f3bf4066c7b/image.png)
 
 📂 Dataset
 
